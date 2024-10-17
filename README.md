@@ -55,8 +55,8 @@ python unlearning-cifar10.py --unlearn_n 20 --unlearn_epochs 1 --unlearn_lr 0.02
 If you use this work, please cite our work as 😊:
 
 @article{huang2024unlearn,
-  title={Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy},
-  author={Huang, Yangsibo and Liu, Daogao and Chua, Lynn and Ghazi, Badih and Kamath, Pritish and Kumar, Ravi and Manurangsi, Pasin and Nasr, Milad and Sinha, Amer and Zhang, Chiyuan},
-  journal={arXiv preprint arXiv:2410.09591},
+  title={Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy},<br>
+  author={Huang, Yangsibo and Liu, Daogao and Chua, Lynn and Ghazi, Badih and Kamath, Pritish and Kumar, Ravi and Manurangsi, Pasin and Nasr, Milad and Sinha, Amer and Zhang, Chiyuan},<br>
+  journal={arXiv preprint arXiv:2410.09591},<br>
   year={2024}
 }
